@@ -1,0 +1,17 @@
+ 	Course Name	Course Launch Date	Module Deadline 	Module Name
+C0	Pre-req Content Revision	Monday, September 30, 2019	Monday, October 14, 2019	Prep Completion
+C1	Object Oriented Programming	Monday, October 14, 2019	Monday, October 14, 2019	Welcome module
+			Monday, October 21, 2019	Classes & Objects
+			Monday, November 04, 2019	Inheritence & Polymorphism
+			Monday, November 11, 2019	Arrays & Linked Lists
+			Monday, November 18, 2019	Assignment (Course 1)
+C2	Algorithms	Monday, November 18, 2019	Monday, November 25, 2019	Introduction to Algorithm Analysis + Recursion
+			Monday, December 09, 2019	Divide & Conquer
+			Monday, December 16, 2019	Assignment (Divide & Conquer)
+			Monday, December 23, 2019	Dynamic Programming
+C3	Data Structures	Monday, December 23, 2019	Monday, December 30, 2019	Stacks & Queues
+			Monday, January 06, 2020	Assignment (Stacks & Queues)
+			Monday, January 13, 2020	Hash tables
+			Monday, January 20, 2020	Trees & BST's 
+			Monday, January 27, 2020	Heaps
+			Monday, February 10, 2020	Graphs & Graph Algorithms
